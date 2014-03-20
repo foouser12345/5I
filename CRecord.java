@@ -8,7 +8,9 @@ private Double estatura;
 /** Implementar constructores **/
 
 /** Implementar setters **/
-
+public void setNombre(string n){
+nombre = n;
+}
 /** Implementar getters **/
 
 }
