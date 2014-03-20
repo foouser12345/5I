@@ -10,5 +10,7 @@ private Double estatura;
 /** Implementar setters **/
 
 /** Implementar getters **/
-
+public String getClave(){
+  return clave;
+}
 }
