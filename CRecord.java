@@ -6,7 +6,7 @@ private Double peso;
 private Double estatura;
 
 /** Implementar constructores **/
-
+public CRecord(){}
 /** Implementar setters **/
 
 /** Implementar getters **/
