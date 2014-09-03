@@ -11,6 +11,10 @@ public CRecord(){}
 public void setNombre(string n){
 nombre = n;
 }
+public String getNombre(){
+return nombre;
+}
+}
 /** Implementar getters **/
 
 }
